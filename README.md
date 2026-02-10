@@ -44,5 +44,3 @@ Printers are the most profitable sub-category.
 ## CONCLUSION
 
 The dashboard provides a clear overview of ecommerce performance. It helps identify top regions, products, and payment trends while highlighting profit patterns. These insights support better decision-making for sales strategy, inventory planning, and customer targeting.
-
-Profit by Sub-Category (Bar Chart): Track most profitable products
