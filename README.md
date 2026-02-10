@@ -25,8 +25,24 @@ Sales by Customer (Bar Chart): Identify top customers
 
 Quantity by Category (Donut Chart): Understand category-wise sales
 
-Profit by Sub-Category (Bar Chart): Track most profitable products
 
 ## Dashboard Image
 <img width="1047" height="586" alt="Madhav_Store_Ecommarce_Dashboard_picture" src="https://github.com/user-attachments/assets/b5938c18-3b62-4376-adf0-a590d1b58e2d" />
 
+## INSIGHTS
+
+Clothing category generates the highest sales volume.
+
+COD is the most preferred payment mode among customers.
+
+Maharashtra is the top-performing state in terms of revenue.
+
+Profit shows significant monthly fluctuations, indicating seasonality.
+
+Printers are the most profitable sub-category.
+
+## CONCLUSION
+
+The dashboard provides a clear overview of ecommerce performance. It helps identify top regions, products, and payment trends while highlighting profit patterns. These insights support better decision-making for sales strategy, inventory planning, and customer targeting.
+
+Profit by Sub-Category (Bar Chart): Track most profitable products
